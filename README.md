@@ -2,7 +2,8 @@
 **ManuBurboa/ManuBurboa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-![JavaScript.svg…]()
+![JavaScript](https://github.com/ManuBurboa/ManuBurboa/assets/89232266/f3b17af3-6e29-447d-8181-aa4f0fd6b5af)
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
