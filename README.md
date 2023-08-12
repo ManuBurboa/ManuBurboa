@@ -1,16 +1,8 @@
 ### Hi there 👋
-sparkles About Me:
-pig I'm from Argentina.
-🐷 I’m currently working on design websites.
-pig I’m currently learning how to set up a web hosting.
-pig Fun fact: I learned web design and created apps for school for the last 4 years and I love it!
-
-computer Tech Stack:
-JavaScript TypeScript Firebase Glitch HTML5 Angular Bootstrap Vue.js NPM MySQL MariaDB Gimp Gnu Image Manipulation Program Canva Trello LINUX Arduino
-<!--
 **ManuBurboa/ManuBurboa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+![Uploading JavaScript.svg…]()
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -20,4 +12,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
