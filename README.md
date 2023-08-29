@@ -2,6 +2,9 @@
 
 ## ¡Hi there! I'm Manuel, a technology enthusiast from Argentina. I'm a programming technician and currently pursuing a degree in software engineering. I'm passionate about coding and the transformative power of technology. When I'm not in front of a screen, I enjoy nature and music. Welcome to my online corner!
 
+## ¡Hola a todos! Soy Manuel, un entusiasta de la tecnología de Argentina. Soy técnico en programación y actualmente estoy cursando una carrera en ingeniería de software. Siento pasión por la codificación y el poder transformador de la tecnología. Cuando no estoy frente a una pantalla, disfruto de la naturaleza y la música. ¡Bienvenidos a mi rincón en línea!
+
+
 # 💻 Tech Skills
 
 ![JavaScript](https://github.com/ManuBurboa/ManuBurboa/assets/89232266/45c9152b-638e-4cf8-986b-44adce1b459d)
