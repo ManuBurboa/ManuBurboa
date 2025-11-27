@@ -15,7 +15,5 @@
 ![Boostrap](https://github.com/ManuBurboa/ManuBurboa/assets/89232266/bd8587bb-c74f-4c39-ba16-023a1229754c)
 ![Vue](https://github.com/ManuBurboa/ManuBurboa/assets/89232266/fb214cf1-b147-4cd9-9c52-dc8abb9d3a3e)
 ![Npm](https://github.com/ManuBurboa/ManuBurboa/assets/89232266/ad14c646-a17f-4ea5-a1db-de7aec021ca3)
-![Canva](https://github.com/ManuBurboa/ManuBurboa/assets/89232266/4033c10d-063e-43b6-825b-f249c33291f2)
-![Trello](https://github.com/ManuBurboa/ManuBurboa/assets/89232266/cfdafdb4-2965-47fa-ab75-7140cb04892f)
 ![Linux](https://github.com/ManuBurboa/ManuBurboa/assets/89232266/a41fa0b1-fbb8-4434-8335-250bc9ba0172)
 ![Arduino](https://github.com/ManuBurboa/ManuBurboa/assets/89232266/759f091d-45b4-4815-bf55-7c8fe40487a4)
